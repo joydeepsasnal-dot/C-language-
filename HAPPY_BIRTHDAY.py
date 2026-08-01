@@ -1,0 +1,24 @@
+import time
+
+name = input("Enter name: ")   # better prompt
+
+def birthday_wish(name):   # use generic parameter name
+    cake = """
+             , , , , , 
+           |:H:a:p:p:y:|
+         __|___________|__
+        |^^^^^^^^^^^^^^^^^|
+        |:B:i:r:t:h:d:a:y:|
+        |                 |
+        ~~~~~~~~~~~~~~~~~~~
+    """
+    
+    for line in "3... 2... 1...".split():
+        print(line)
+        time.sleep(0.7) 
+    
+    print(cake)
+    print(f"🎉 Happy Birthday {name}! 🎉")
+    print("May your day be awesome!")
+
+birthday_wish(name)   #
