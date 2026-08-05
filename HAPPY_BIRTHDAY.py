@@ -6,6 +6,7 @@ def birthday_wish(name):   # use generic parameter name
     cake = """
              , , , , , 
            |:H:a:p:p:y:|
+           
          __|___________|__
         |^^^^^^^^^^^^^^^^^|
         |:B:i:r:t:h:d:a:y:|
@@ -21,4 +22,4 @@ def birthday_wish(name):   # use generic parameter name
     print(f"🎉 Happy Birthday {name}! 🎉")
     print("May your day be awesome!")
 
-birthday_wish(name)   #
+birthday_wish(name)
