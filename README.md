@@ -1,219 +1,363 @@
-<h1 align="center">Hi 👋, I'm Joydeep Sasmal</h1>
+<!-- ========================= -->
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student • Developer • AI/ML Enthusiast
-</h3>
+<!--        HERO SECTION        -->
 
-<p align="center">
+<!-- ========================= -->
+
+<div align="center">
+
+# 👋 Hi, I'm Joydeep Sasmal
+
+### `B.Tech CSE • AI & ML Enthusiast • Developer`
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Growing;C+%7C+Python+%7C+Web+Development+%7C+AI%2FML;Turning+Ideas+into+Projects+%F0%9F%9A%80;Future+AI%2FML+Engineer+in+Progress+%F0%9F%A4%96" alt="Typing Animation"/>
+</p>
+
+<p>
   <a href="https://github.com/joydeepsasnal-dot">
-    <img src="https://komarev.com/ghpvc/?username=joydeepsasnal-dot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/joydeepsasnal-dot?tab=followers">
-    <img src="https://img.shields.io/github/followers/joydeepsasnal-dot?label=Followers&style=flat" alt="GitHub Followers"/>
+  <a href="mailto:joydeepsasnal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/joydeepsasnal-dot">
-    <img src="https://img.shields.io/github/stars/joydeepsasnal-dot?label=Stars&style=flat" alt="GitHub Stars"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+ML+Enthusiast;Learning+Python+%7C+C+%7C+Web+Development;Building+Projects+%26+Exploring+AI;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=joydeepsasnal-dot&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+<!-- ========================= -->
 
-* 🎓 **B.Tech Computer Science Engineering (AI & ML) Student**
-* 💻 Currently working with **C, Python and Web Development**
-* 🌱 Currently learning **Web Development & AI/ML**
-* 🧠 Interested in **Artificial Intelligence, Machine Learning, DSA and Software Development**
-* 🔭 Currently working on my **C Programming journey**
-* 🐍 Exploring and building projects with **Python**
-* 🤝 Open to collaborating on **Python, Web Development and AI/ML projects**
-* 📚 Currently strengthening my **Programming Fundamentals & Problem Solving**
-* ⚡ Fun fact: **I love building, experimenting and learning new technologies.**
+<!--       ABOUT SECTION        -->
 
----
+<!-- ========================= -->
 
-## 🎯 Current Focus
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### Hey there! 👋
+
+I'm **Joydeep Sasmal**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+
+I'm currently building my foundation in programming, problem solving and modern web technologies while exploring the world of AI.
+
+I believe in:
+
+> **Learn → Build → Break → Fix → Improve → Repeat.**
+
+🚀 My goal is to continuously turn what I learn into real projects.
+
+</td>
+
+<td width="45%">
 
 ```text
-C Programming       ███████████████░░░░░  Learning & Practicing
-Python              ██████████████░░░░░░  Learning & Building
-Web Development     ████████████░░░░░░░░  Currently Learning
-DSA                 ████████░░░░░░░░░░░░  Building Fundamentals
-AI / ML             ██████░░░░░░░░░░░░░░  Exploring
-Git & GitHub        ████████████░░░░░░░░  Practicing
+┌──────────────────────────────┐
+│       DEVELOPER STATUS       │
+├──────────────────────────────┤
+│ 🎓 B.Tech CSE                │
+│ 🤖 AI & ML Enthusiast        │
+│ 💻 Developer                 │
+│ 🐍 Python Learner            │
+│ ⚙️ C Programmer              │
+│ 🌐 Web Developer in Progress │
+│ 🚀 Project Builder          │
+└──────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Languages & Technologies
+# ⚡ Current Mission
 
-### 👨‍💻 Programming Languages
+<table>
+<tr>
+<td align="center">💻<br><b>Programming</b><br>C • Python</td>
+<td align="center">🧠<br><b>Problem Solving</b><br>DSA</td>
+<td align="center">🌐<br><b>Web Development</b><br>HTML • CSS • JS</td>
+<td align="center">🤖<br><b>AI / ML</b><br>Exploring</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript" />
 </p>
 
 ### 🌐 Web Development
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🔧 Tools & Environment
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
+
+---
+
+# 📚 Learning Journey
+
+```text
+                    MY DEVELOPMENT JOURNEY
+
+     ┌─────────────┐
+     │ C Programming│
+     └──────┬──────┘
+            ↓
+     ┌─────────────┐
+     │   Python    │
+     └──────┬──────┘
+            ↓
+     ┌─────────────┐
+     │     DSA     │
+     └──────┬──────┘
+            ↓
+     ┌─────────────┐
+     │ Web Dev     │
+     └──────┬──────┘
+            ↓
+     ┌─────────────┐
+     │  AI / ML    │
+     └──────┬──────┘
+            ↓
+     ┌─────────────┐
+     │ Real World  │
+     │   Projects  │
+     └─────────────┘
+```
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/joydeepsasnal-dot/C-language-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joydeepsasnal-dot&repo=C-language-&theme=tokyonight&hide_border=true" alt="C Language Project"/>
-  </a>
+<div align="center">
 
-  <a href="https://github.com/joydeepsasnal-dot/Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joydeepsasnal-dot&repo=Python&theme=tokyonight&hide_border=true" alt="Python Project"/>
-  </a>
-</p>
+<a href="https://github.com/joydeepsasnal-dot/C-language-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joydeepsasnal-dot&repo=C-language-&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
 
-### 💡 More Projects Coming Soon...
+<a href="https://github.com/joydeepsasnal-dot/Python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joydeepsasnal-dot&repo=Python&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
 
-I'm continuously building projects to strengthen my skills in:
+</div>
 
-**C → Python → DSA → Web Development → AI/ML**
+### 🔨 Currently Building
+
+| Project                        | Focus                   | Status       |
+| ------------------------------ | ----------------------- | ------------ |
+| 🧑‍💻 C Programming Collection | C • Problem Solving     | 🟢 Active    |
+| 🐍 Python Collection           | Python Fundamentals     | 🟢 Active    |
+| 🌐 Web Projects                | Frontend Development    | 🟡 Learning  |
+| 🤖 AI/ML Projects              | Artificial Intelligence | 🔵 Exploring |
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joydeepsasnal-dot&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydeepsasnal-dot&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=joydeepsasnal-dot&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joydeepsasnal-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joydeepsasnal-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=joydeepsasnal-dot&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joydeepsasnal-dot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joydeepsasnal-dot&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Joydeep's%20Contribution%20Activity" width="95%" alt="Contribution Activity Graph"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joydeepsasnal-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joydeepsasnal-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&row=2" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
-# 📊 GitHub Profile Summary
+# 📊 Profile Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joydeepsasnal-dot&theme=tokyonight" alt="GitHub Profile Details"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydeepsasnal-dot&theme=tokyonight" height="180" alt="Repositories Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joydeepsasnal-dot&theme=tokyonight" width="95%" alt="Profile Summary"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydeepsasnal-dot&theme=tokyonight" height="180" alt="Most Commit Language"/>
-</p>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydeepsasnal-dot&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydeepsasnal-dot&theme=tokyonight" height="180"/>
+
+</div>
 
 ---
 
-# 📅 My Contribution Journey
+# 📅 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joydeepsasnal-dot&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub Contribution Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Every contribution is a small step toward becoming a better developer.</i>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joydeepsasnal-dot&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Journey" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/joydeepsasnal-dot/joydeepsasnal-dot/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> ⚠️ The snake requires a GitHub Actions workflow in your profile repository. See the setup section below.
+
+---
+
+# 📌 Developer Dashboard
+
+<table>
+<tr>
+<td align="center">
+
+### 📦 Repositories
+
+<img src="https://img.shields.io/github/repos/joydeepsasnal-dot?style=for-the-badge&logo=github&label=TOTAL%20REPOS"/>
+
+</td>
+
+<td align="center">
+
+### ⭐ Stars
+
+<img src="https://img.shields.io/github/stars/joydeepsasnal-dot?style=for-the-badge&logo=github&label=STARS"/>
+
+</td>
+
+<td align="center">
+
+### 👥 Followers
+
+<img src="https://img.shields.io/github/followers/joydeepsasnal-dot?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🧠 What I'm Learning
 
-| Area               | Currently Learning                       |
-| ------------------ | ---------------------------------------- |
-| 💻 Programming     | C, Python, JavaScript                    |
-| 🧩 Problem Solving | Data Structures & Algorithms             |
-| 🌐 Web             | HTML, CSS, JavaScript, React             |
-| 🐍 Python          | Fundamentals, Projects & Problem Solving |
-| 🤖 AI/ML           | Machine Learning Fundamentals            |
-| 🐧 Linux           | Linux Fundamentals & CLI                 |
-| 🔧 Development     | Git, GitHub & Version Control            |
+<div align="center">
+
+|     🧩 Area    | 📚 Focus                                       |
+| :------------: | :--------------------------------------------- |
+| 💻 Programming | C • Python • JavaScript                        |
+|     🧠 DSA     | Data Structures • Algorithms • Problem Solving |
+|     🌐 Web     | HTML • CSS • JavaScript • React                |
+|      🤖 AI     | Artificial Intelligence Fundamentals           |
+|      📊 ML     | Machine Learning Fundamentals                  |
+|    🐧 Linux    | CLI • Development Environment                  |
+|     🔧 Git     | Git • GitHub • Version Control                 |
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+```text
+       ┌────────────────────────────────────┐
+       │                                    │
+       │       THINK       →       BUILD    │
+       │         ↑                 ↓        │
+       │       LEARN        ←       TEST    │
+       │         ↑                 ↓        │
+       │       IMPROVE      ←      DEBUG    │
+       │                                    │
+       └────────────────────────────────────┘
+
+              🚀 NEVER STOP BUILDING
+```
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="center">
-  <a href="mailto:joydeepsasnal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<div align="center">
 
-  <a href="https://github.com/joydeepsasnal-dot">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="mailto:joydeepsasnal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://github.com/joydeepsasnal-dot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 💬 Ask Me About
 
-```text
-C Programming
-Python Fundamentals
-Programming Basics
-Git & GitHub
-Web Development
-AI & Machine Learning
-Student Projects
-```
+<p align="center">
+
+`C Programming` • `Python` • `DSA` • `Git & GitHub` • `Web Development` • `AI/ML` • `Student Projects`
+
+</p>
 
 ---
 
-<h2 align="center">⚡ Keep Learning. Keep Building. Keep Growing. ⚡</h2>
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my GitHub profile!</b>
-</p>
+### ⚡ Learn. Build. Break. Fix. Repeat. ⚡
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer"/>
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
